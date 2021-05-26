@@ -1,6 +1,6 @@
 {
     "Tienda": {
-        "Camisetas": {
+        "Camisetas": [{
             "Nike": [{
                 "Tipo": "Manga corta",
                 "Marca": "Mike",
@@ -16,7 +16,7 @@
                 "Marca": "Gordan",
                 "Tallas": "M, L y XL"
             }]
-        },
+        }],
         "Pantalones": {
             "Nike": [{
                 "Tipo": "Cortos",
