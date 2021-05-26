@@ -1,0 +1,55 @@
+{
+    "Tienda": {
+        "Camisetas": {
+            "Nike": {
+                "Tipo": "Manga corta",
+                "Marca": "Mike",
+                "Tallas": "M y L"
+            },
+            "Addidas": {
+                "Tipo": "Manga larga",
+                "Marca": "Addidas",
+                "Tallas": "M y L"
+            },
+            "Gordan": {
+                "Tipo": "Sin mangas",
+                "Marca": "Gordan",
+                "Tallas": "M, L y XL"
+            }
+        },
+        "Pantalones": {
+            "Nike": [{
+                "Tipo": "Cortos",
+                "Marca": "Mike",
+                "Tallas": "S y M"
+            }],
+            "Addidas": [{
+                "Tipo": "Largos",
+                "Marca": "Addidas",
+                "Tallas": "M y XL"
+            }],
+            "Gordan": [{
+                "Tipo": "Cortos",
+                "Marca": "Gordan",
+                "Tallas": "S, M y XL"
+            }]
+        },
+        "Zapatillas": {
+            "Nike": [{
+                "Tipo": "Baloncesto",
+                "Marca": "Mike",
+                "Tallas": "44, 45, 46"
+            }],
+            "Addidas": [{
+                "Tipo": "Futbol",
+                "Marca": "Messirve",
+                "Tallas": "40, 41, 42"
+            }],
+            "Gordan": [{
+                "Tipo": "Baloncesto",
+                "Marca": "Gordan",
+                "Tallas": "44, 45, 46"
+            }]
+        }
+    }
+}
